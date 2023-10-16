@@ -11,9 +11,6 @@ itemsList.lastElementChild.textContent = 'Hello 4';
 // lastchild
 console.log(itemsList.lastChild);
 
-// createchild
-
-
 
 // firstelementchild
 console.log(itemsList.firstElementChild);
